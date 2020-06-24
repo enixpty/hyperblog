@@ -4,4 +4,4 @@ agregamos una nueva linea
 
 y tambien esta otra 
 
-ahora vamos a probar reset soft
+ya hicimos los cambios para ver el reset hard 
